@@ -1,5 +1,6 @@
 # MSB-16-7058
-  Supporting files for manuscript Turkarslan et al., MSB-16-7058
+  Supporting files for manuscript Turkarslan et al., MSB-16-7058 <br>
+  [![DOI](https://zenodo.org/badge/75977927.svg)](https://zenodo.org/badge/latestdoi/75977927)
 
 # File Descriptions
 ## EGRIN-model-cytoscape.cys
