@@ -4,9 +4,11 @@
 
 # File Descriptions
 ## EGRIN-model-cytoscape.cys
+  Expanded View Model EV1
   Cytoscape file for visualizing EGRIN Model
 
 ## cMonkey-Inferelator.RData
+  Expanded View Model EV2 
   RData file for cMonkey and Inferelator algorithm runs
 
 ## analyzeRNASeq.py
